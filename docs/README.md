@@ -1,4 +1,4 @@
-# Duke
+# LinuxLingo
 
 {Give product intro here}
 
